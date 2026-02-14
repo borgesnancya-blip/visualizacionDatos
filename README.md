@@ -4,9 +4,7 @@
 Este repositorio contiene un módulo completo de visualización de datos, explorando desde gráficos estadísticos clásicos hasta herramientas dinámicas e interactivas. El objetivo es transformar datos brutos en información visual clara y accionable.
 
 ---
-
 ## 🚀 Gráfico Dinámico Principal
----
 
 ## 📈 Tipos de Visualizaciones Incluidas
 
@@ -16,15 +14,17 @@ Este repositorio contiene un módulo completo de visualización de datos, explor
 * **Histogramas & KDE
   
 ### 📉 Gráficos de Tendencia (Matplotlib)
-* Gráficos de barras apiladas y comparativas con etiquetas automáticas.
+* Gráficos de barras apiladas y comparativas con etiquetas automáticas
 * Dispersión con anotaciones técnicas de puntos máximos.
 
 ---
-
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** Python
 * **Librerías de Visualización:** Plotly Express, Seaborn, Matplotlib.
 * **Procesamiento de Datos:** Pandas, NumPy.
 * **Entorno:** Jupyter Notebook.
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72489343-b3a4-4012-b0be-217984b56216" width="800">
+</p>
+
